@@ -1,0 +1,10 @@
+Sequence_406, Novelty=0.9873
+Sequence_582, Novelty=0.9888
+Sequence_482, Novelty=0.9891
+Sequence_563, Novelty=0.9902
+Sequence_481, Novelty=0.9904
+Sequence_574, Novelty=0.9912
+Sequence_430, Novelty=0.9924
+Sequence_565, Novelty=0.9928
+Sequence_441, Novelty=0.9937
+Sequence_504, Novelty=1.0000
