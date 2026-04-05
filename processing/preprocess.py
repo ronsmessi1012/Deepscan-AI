@@ -51,15 +51,16 @@ all_kmers = ["".join(p) for p in itertools.product(bases, repeat=k)]
 # ------------------------------
 # 4. Convert sequence → vector
 # ------------------------------
+kmer_to_idx = {kmer: i for i, kmer in enumerate(all_kmers)}
+
 def sequence_to_vector(sequence, k=4):
 
     kmers = generate_kmers(sequence, k)
     vector = [0] * len(all_kmers)
 
     for kmer in kmers:
-        if kmer in all_kmers:
-            idx = all_kmers.index(kmer)
-            vector[idx] += 1
+        if kmer in kmer_to_idx:
+            vector[kmer_to_idx[kmer]] += 1
 
     return vector, kmers
 

@@ -22,7 +22,7 @@ Sequence_20, Cluster_0, Distance_0.0836, Novelty_0.0000, Confidence_0.9228, Know
 Sequence_21, Cluster_0, Distance_0.3156, Novelty_0.2664, Confidence_0.7601, Known-like
 Sequence_22, Cluster_0, Distance_0.0836, Novelty_0.0000, Confidence_0.9228, Known-like
 Sequence_23, Cluster_0, Distance_0.1962, Novelty_0.1293, Confidence_0.8360, Known-like
-Sequence_24, Cluster_0, Distance_0.1846, Novelty_0.1160, Confidence_0.8442, Known-like
+Sequence_24, Cluster_0, Distance_0.1846, Novelty_0.1159, Confidence_0.8442, Known-like
 Sequence_25, Cluster_0, Distance_0.0836, Novelty_0.0000, Confidence_0.9228, Known-like
 Sequence_26, Cluster_0, Distance_0.1948, Novelty_0.1277, Confidence_0.8369, Known-like
 Sequence_27, Cluster_0, Distance_0.0836, Novelty_0.0000, Confidence_0.9228, Known-like
@@ -151,7 +151,7 @@ Sequence_149, Cluster_0, Distance_0.0836, Novelty_0.0000, Confidence_0.9228, Kno
 Sequence_150, Cluster_0, Distance_0.0836, Novelty_0.0000, Confidence_0.9228, Known-like
 Sequence_151, Cluster_0, Distance_0.0836, Novelty_0.0000, Confidence_0.9228, Known-like
 Sequence_152, Cluster_0, Distance_0.1912, Novelty_0.1236, Confidence_0.8395, Known-like
-Sequence_153, Cluster_0, Distance_0.1846, Novelty_0.1160, Confidence_0.8442, Known-like
+Sequence_153, Cluster_0, Distance_0.1846, Novelty_0.1159, Confidence_0.8442, Known-like
 Sequence_154, Cluster_0, Distance_0.2011, Novelty_0.1349, Confidence_0.8326, Known-like
 Sequence_155, Cluster_0, Distance_0.1877, Novelty_0.1196, Confidence_0.8419, Known-like
 Sequence_156, Cluster_0, Distance_0.0836, Novelty_0.0000, Confidence_0.9228, Known-like
@@ -372,7 +372,7 @@ Sequence_370, Cluster_0, Distance_0.3197, Novelty_0.2711, Confidence_0.7577, Kno
 Sequence_371, Cluster_0, Distance_0.3622, Novelty_0.3199, Confidence_0.7341, Known-like
 Sequence_372, Cluster_0, Distance_0.5246, Novelty_0.5065, Confidence_0.6559, Similar
 Sequence_373, Cluster_0, Distance_0.5331, Novelty_0.5162, Confidence_0.6523, Similar
-Sequence_374, Cluster_0, Distance_0.1846, Novelty_0.1160, Confidence_0.8442, Known-like
+Sequence_374, Cluster_0, Distance_0.1846, Novelty_0.1159, Confidence_0.8442, Known-like
 Sequence_375, Cluster_0, Distance_0.2158, Novelty_0.1518, Confidence_0.8225, Known-like
 Sequence_376, Cluster_0, Distance_0.2921, Novelty_0.2394, Confidence_0.7740, Known-like
 Sequence_377, Cluster_0, Distance_0.3140, Novelty_0.2646, Confidence_0.7610, Known-like

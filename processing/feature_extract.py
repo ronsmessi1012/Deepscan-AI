@@ -1,13 +1,16 @@
 import itertools
-from preprocess import clean_sequences, generate_kmers
+from preprocess import load_sequences, generate_kmers
+clean_sequences = load_sequences("../data/synthetic.fasta")
 
 bases = ["A", "T", "G", "C"]
 k = 4
 
 all_kmers = ["".join(p) for p in itertools.product(bases, repeat=k)]
 
-def sequence_to_vector(sequence, k=4):
-    kmers = generate_kmers(sequence, k)
+def sequence_to_vector(sequence, k_val=None):
+    if k_val is None:
+        k_val = k
+    kmers = generate_kmers(sequence, k_val)
     
     vector = [0] * len(all_kmers)
     
