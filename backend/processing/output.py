@@ -11,7 +11,8 @@ def save_results(result, output_path):
             "Novelty",
             "Confidence",
             "Category",
-            "Function"
+            "Function",
+            "Kingdom"
         ])
 
         for i in range(len(result["sequences"])):
@@ -21,7 +22,8 @@ def save_results(result, output_path):
                 round(result["novelty"][i], 4),
                 round(result["confidence"][i], 4),
                 result["categories"][i],
-                result["functions"][i]
+                result["functions"][i],
+                result["kingdoms"][i]
             ])
 
 from collections import Counter
@@ -33,6 +35,8 @@ def generate_summary(result):
     print("Clusters:", Counter(result["labels"]))
     print("Categories:", Counter(result["categories"]))
     print("Functions:", Counter(result["functions"]))
+    if "kingdoms" in result:
+        print("Kingdoms:", Counter(result["kingdoms"]))
 
     high_novel = sum(1 for n in result["novelty"] if n > 0.98)
     print("High-confidence novel:", high_novel)

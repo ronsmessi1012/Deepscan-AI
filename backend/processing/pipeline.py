@@ -1,7 +1,37 @@
+import os
+import sys
+sys.path.append(os.path.abspath('..'))
+
 from preprocess import load_sequences, vectorize_sequences
 from clustering import run_clustering
 from scoring import compute_scores
 from function import predict_function
+
+import joblib
+
+MODEL_PATH = "../models/kingdom_model.pkl"
+
+def get_kingdom_model():
+    if os.path.exists(MODEL_PATH):
+        print("Loading cached kingdom model...")
+        return joblib.load(MODEL_PATH)
+    else:
+        print("Training kingdom model...")
+        from models.classifier import load_kingdom_data, train_model
+        
+        files = {
+            "Bacteria": "../data/bacteria.fasta",
+            "Archaea": "../data/archaea.fasta",
+            "Protista": "../data/protista.fasta",
+            "Fungi": "../data/fungi.fasta",
+            "Plantae": "../data/plantae.fasta",
+            "Animalia": "../data/animalia.fasta"
+        }
+        X, y = load_kingdom_data(files)
+        model = train_model(X, y)
+        os.makedirs(os.path.dirname(MODEL_PATH), exist_ok=True)
+        joblib.dump(model, MODEL_PATH)
+        return model
 
 def run_pipeline(file_path):
 
@@ -23,6 +53,11 @@ def run_pipeline(file_path):
     # Step 5: Functional prediction
     functions = predict_function(sequences, kmers_list)
 
+    # Step 6: Kingdom classification
+    kingdom_model = get_kingdom_model()
+    from models.classifier import predict_kingdom
+    kingdoms = [predict_kingdom(kingdom_model, seq) for seq in sequences]
+
     import numpy as np
     return {
         "sequences": sequences,
@@ -31,6 +66,7 @@ def run_pipeline(file_path):
         "confidence": confidence,
         "categories": categories,
         "functions": functions,
+        "kingdoms": kingdoms,
         "X": np.array(X)
     }
 
