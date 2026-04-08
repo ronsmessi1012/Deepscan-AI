@@ -36,24 +36,34 @@ The internal backend logic relies primarily on the `pipeline.py` script orchestr
 
 ## 🚀 Getting Started
 
-Ensure the latest Python configuration dependencies are fully loaded by explicitly running:
+### Prerequisites
+- Python 3.9+ 
+- Node.js & npm
+
+### 1. Setup Backend (FastAPI / Machine Learning)
+
+Ensure to construct an isolated python environment and load dependencies:
 ```bash
+# Create and activate virtual environment
+python -m venv venv
+source venv/bin/activate  # On Windows use: venv\Scripts\activate
+
+# Install dependencies
 pip install -r requirements.txt
 ```
-
-### 1. Launch the API Backend
 
 Navigate to your isolated backend layer and launch the headless Uvicorn process asynchronously feeding the pipeline execution payloads globally through port `8000`:
 ```bash
 cd backend
-../venv/bin/python -m uvicorn api:app --reload
+uvicorn api:app --reload
 ```
 
-### 2. Boot your Lovable Web Frontend
+### 2. Boot your Lovable Web Frontend (React)
 
-Separately execute your fully-installed React instance interacting directly connecting the UI seamlessly:
+Separately execute your fully-installed React instance interacting directly with the backend REST endpoints seamlessly:
 ```bash
 cd frontend
+npm install
 npm run dev
 ```
 
