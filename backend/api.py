@@ -40,6 +40,21 @@ async def analyze_sequence(file: UploadFile = File(...)):
         else:
             clean_result[key] = value
             
+    if "X" in clean_result and len(clean_result["X"]) > 0:
+        from sklearn.decomposition import PCA
+        n_samples = len(clean_result["X"])
+        n_components = min(2, n_samples)
+        pca = PCA(n_components=n_components)
+        embeddings_2d = pca.fit_transform(clean_result["X"]).tolist()
+        
+        # Ensure 2D for each point
+        for row in embeddings_2d:
+            while len(row) < 2:
+                row.append(0.0)
+                
+        clean_result["embeddings_2d"] = embeddings_2d
+        del clean_result["X"]
+            
     if "labels" in clean_result:
         clean_result["labels"] = [int(v) for v in clean_result["labels"]]
         
