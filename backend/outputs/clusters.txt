@@ -1,0 +1,15 @@
+Sequence_0: Cluster_2
+Sequence_1: Cluster_2
+Sequence_2: Cluster_2
+Sequence_3: Cluster_2
+Sequence_4: Cluster_2
+Sequence_5: Cluster_0
+Sequence_6: Cluster_0
+Sequence_7: Cluster_0
+Sequence_8: Cluster_0
+Sequence_9: Cluster_0
+Sequence_10: Cluster_0
+Sequence_11: Cluster_0
+Sequence_12: Cluster_1
+Sequence_13: Cluster_0
+Sequence_14: Cluster_0

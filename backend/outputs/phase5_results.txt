@@ -1,0 +1,600 @@
+Sequence_0, Cluster_0, Distance_0.0836, Novelty_0.0000, Confidence_0.9228, Known-like
+Sequence_1, Cluster_0, Distance_0.0836, Novelty_0.0000, Confidence_0.9228, Known-like
+Sequence_2, Cluster_0, Distance_0.0836, Novelty_0.0000, Confidence_0.9228, Known-like
+Sequence_3, Cluster_0, Distance_0.0836, Novelty_0.0000, Confidence_0.9228, Known-like
+Sequence_4, Cluster_0, Distance_0.0836, Novelty_0.0000, Confidence_0.9228, Known-like
+Sequence_5, Cluster_0, Distance_0.0836, Novelty_0.0000, Confidence_0.9228, Known-like
+Sequence_6, Cluster_0, Distance_0.0836, Novelty_0.0000, Confidence_0.9228, Known-like
+Sequence_7, Cluster_0, Distance_0.0836, Novelty_0.0000, Confidence_0.9228, Known-like
+Sequence_8, Cluster_0, Distance_0.0836, Novelty_0.0000, Confidence_0.9228, Known-like
+Sequence_9, Cluster_0, Distance_0.0836, Novelty_0.0000, Confidence_0.9228, Known-like
+Sequence_10, Cluster_0, Distance_0.1864, Novelty_0.1180, Confidence_0.8429, Known-like
+Sequence_11, Cluster_0, Distance_0.1531, Novelty_0.0798, Confidence_0.8672, Known-like
+Sequence_12, Cluster_0, Distance_0.1892, Novelty_0.1213, Confidence_0.8409, Known-like
+Sequence_13, Cluster_0, Distance_0.0836, Novelty_0.0000, Confidence_0.9228, Known-like
+Sequence_14, Cluster_0, Distance_0.0836, Novelty_0.0000, Confidence_0.9228, Known-like
+Sequence_15, Cluster_0, Distance_0.0836, Novelty_0.0000, Confidence_0.9228, Known-like
+Sequence_16, Cluster_0, Distance_0.1728, Novelty_0.1024, Confidence_0.8527, Known-like
+Sequence_17, Cluster_0, Distance_0.0836, Novelty_0.0000, Confidence_0.9228, Known-like
+Sequence_18, Cluster_0, Distance_0.0836, Novelty_0.0000, Confidence_0.9228, Known-like
+Sequence_19, Cluster_0, Distance_0.1833, Novelty_0.1144, Confidence_0.8451, Known-like
+Sequence_20, Cluster_0, Distance_0.0836, Novelty_0.0000, Confidence_0.9228, Known-like
+Sequence_21, Cluster_0, Distance_0.3156, Novelty_0.2664, Confidence_0.7601, Known-like
+Sequence_22, Cluster_0, Distance_0.0836, Novelty_0.0000, Confidence_0.9228, Known-like
+Sequence_23, Cluster_0, Distance_0.1962, Novelty_0.1293, Confidence_0.8360, Known-like
+Sequence_24, Cluster_0, Distance_0.1846, Novelty_0.1159, Confidence_0.8442, Known-like
+Sequence_25, Cluster_0, Distance_0.0836, Novelty_0.0000, Confidence_0.9228, Known-like
+Sequence_26, Cluster_0, Distance_0.1948, Novelty_0.1277, Confidence_0.8369, Known-like
+Sequence_27, Cluster_0, Distance_0.0836, Novelty_0.0000, Confidence_0.9228, Known-like
+Sequence_28, Cluster_0, Distance_0.2643, Novelty_0.2075, Confidence_0.7910, Known-like
+Sequence_29, Cluster_0, Distance_0.0836, Novelty_0.0000, Confidence_0.9228, Known-like
+Sequence_30, Cluster_0, Distance_0.0836, Novelty_0.0000, Confidence_0.9228, Known-like
+Sequence_31, Cluster_0, Distance_0.0836, Novelty_0.0000, Confidence_0.9228, Known-like
+Sequence_32, Cluster_0, Distance_0.0836, Novelty_0.0000, Confidence_0.9228, Known-like
+Sequence_33, Cluster_0, Distance_0.0836, Novelty_0.0000, Confidence_0.9228, Known-like
+Sequence_34, Cluster_0, Distance_0.0836, Novelty_0.0000, Confidence_0.9228, Known-like
+Sequence_35, Cluster_0, Distance_0.1877, Novelty_0.1195, Confidence_0.8420, Known-like
+Sequence_36, Cluster_0, Distance_0.2891, Novelty_0.2360, Confidence_0.7757, Known-like
+Sequence_37, Cluster_0, Distance_0.0836, Novelty_0.0000, Confidence_0.9228, Known-like
+Sequence_38, Cluster_0, Distance_0.0836, Novelty_0.0000, Confidence_0.9228, Known-like
+Sequence_39, Cluster_0, Distance_0.1833, Novelty_0.1144, Confidence_0.8451, Known-like
+Sequence_40, Cluster_0, Distance_0.1955, Novelty_0.1285, Confidence_0.8365, Known-like
+Sequence_41, Cluster_0, Distance_0.0836, Novelty_0.0000, Confidence_0.9228, Known-like
+Sequence_42, Cluster_0, Distance_0.0836, Novelty_0.0000, Confidence_0.9228, Known-like
+Sequence_43, Cluster_0, Distance_0.0836, Novelty_0.0000, Confidence_0.9228, Known-like
+Sequence_44, Cluster_0, Distance_0.0836, Novelty_0.0000, Confidence_0.9228, Known-like
+Sequence_45, Cluster_0, Distance_0.0836, Novelty_0.0000, Confidence_0.9228, Known-like
+Sequence_46, Cluster_0, Distance_0.0836, Novelty_0.0000, Confidence_0.9228, Known-like
+Sequence_47, Cluster_0, Distance_0.0836, Novelty_0.0000, Confidence_0.9228, Known-like
+Sequence_48, Cluster_0, Distance_0.0836, Novelty_0.0000, Confidence_0.9228, Known-like
+Sequence_49, Cluster_0, Distance_0.0836, Novelty_0.0000, Confidence_0.9228, Known-like
+Sequence_50, Cluster_0, Distance_0.0836, Novelty_0.0000, Confidence_0.9228, Known-like
+Sequence_51, Cluster_0, Distance_0.0836, Novelty_0.0000, Confidence_0.9228, Known-like
+Sequence_52, Cluster_0, Distance_0.0836, Novelty_0.0000, Confidence_0.9228, Known-like
+Sequence_53, Cluster_0, Distance_0.1981, Novelty_0.1315, Confidence_0.8346, Known-like
+Sequence_54, Cluster_0, Distance_0.1864, Novelty_0.1180, Confidence_0.8429, Known-like
+Sequence_55, Cluster_0, Distance_0.0836, Novelty_0.0000, Confidence_0.9228, Known-like
+Sequence_56, Cluster_0, Distance_0.0836, Novelty_0.0000, Confidence_0.9228, Known-like
+Sequence_57, Cluster_0, Distance_0.0836, Novelty_0.0000, Confidence_0.9228, Known-like
+Sequence_58, Cluster_0, Distance_0.0836, Novelty_0.0000, Confidence_0.9228, Known-like
+Sequence_59, Cluster_0, Distance_0.0836, Novelty_0.0000, Confidence_0.9228, Known-like
+Sequence_60, Cluster_0, Distance_0.1877, Novelty_0.1195, Confidence_0.8420, Known-like
+Sequence_61, Cluster_0, Distance_0.1279, Novelty_0.0508, Confidence_0.8866, Known-like
+Sequence_62, Cluster_0, Distance_0.1932, Novelty_0.1258, Confidence_0.8381, Known-like
+Sequence_63, Cluster_0, Distance_0.1948, Novelty_0.1277, Confidence_0.8369, Known-like
+Sequence_64, Cluster_0, Distance_0.0836, Novelty_0.0000, Confidence_0.9228, Known-like
+Sequence_65, Cluster_0, Distance_0.0836, Novelty_0.0000, Confidence_0.9228, Known-like
+Sequence_66, Cluster_0, Distance_0.0836, Novelty_0.0000, Confidence_0.9228, Known-like
+Sequence_67, Cluster_0, Distance_0.0836, Novelty_0.0000, Confidence_0.9228, Known-like
+Sequence_68, Cluster_0, Distance_0.0836, Novelty_0.0000, Confidence_0.9228, Known-like
+Sequence_69, Cluster_0, Distance_0.0836, Novelty_0.0000, Confidence_0.9228, Known-like
+Sequence_70, Cluster_0, Distance_0.0836, Novelty_0.0000, Confidence_0.9228, Known-like
+Sequence_71, Cluster_0, Distance_0.0836, Novelty_0.0000, Confidence_0.9228, Known-like
+Sequence_72, Cluster_0, Distance_0.0836, Novelty_0.0000, Confidence_0.9228, Known-like
+Sequence_73, Cluster_0, Distance_0.0836, Novelty_0.0000, Confidence_0.9228, Known-like
+Sequence_74, Cluster_0, Distance_0.0836, Novelty_0.0000, Confidence_0.9228, Known-like
+Sequence_75, Cluster_0, Distance_0.1918, Novelty_0.1242, Confidence_0.8391, Known-like
+Sequence_76, Cluster_0, Distance_0.0836, Novelty_0.0000, Confidence_0.9228, Known-like
+Sequence_77, Cluster_0, Distance_0.0836, Novelty_0.0000, Confidence_0.9228, Known-like
+Sequence_78, Cluster_0, Distance_0.0836, Novelty_0.0000, Confidence_0.9228, Known-like
+Sequence_79, Cluster_0, Distance_0.1658, Novelty_0.0944, Confidence_0.8578, Known-like
+Sequence_80, Cluster_0, Distance_0.1864, Novelty_0.1180, Confidence_0.8429, Known-like
+Sequence_81, Cluster_0, Distance_0.0836, Novelty_0.0000, Confidence_0.9228, Known-like
+Sequence_82, Cluster_0, Distance_0.0836, Novelty_0.0000, Confidence_0.9228, Known-like
+Sequence_83, Cluster_0, Distance_0.1962, Novelty_0.1293, Confidence_0.8360, Known-like
+Sequence_84, Cluster_0, Distance_0.0836, Novelty_0.0000, Confidence_0.9228, Known-like
+Sequence_85, Cluster_0, Distance_0.1892, Novelty_0.1213, Confidence_0.8409, Known-like
+Sequence_86, Cluster_0, Distance_0.0836, Novelty_0.0000, Confidence_0.9228, Known-like
+Sequence_87, Cluster_0, Distance_0.2091, Novelty_0.1441, Confidence_0.8271, Known-like
+Sequence_88, Cluster_0, Distance_0.0836, Novelty_0.0000, Confidence_0.9228, Known-like
+Sequence_89, Cluster_0, Distance_0.0836, Novelty_0.0000, Confidence_0.9228, Known-like
+Sequence_90, Cluster_0, Distance_0.0836, Novelty_0.0000, Confidence_0.9228, Known-like
+Sequence_91, Cluster_0, Distance_0.0836, Novelty_0.0000, Confidence_0.9228, Known-like
+Sequence_92, Cluster_0, Distance_0.0836, Novelty_0.0000, Confidence_0.9228, Known-like
+Sequence_93, Cluster_0, Distance_0.0836, Novelty_0.0000, Confidence_0.9228, Known-like
+Sequence_94, Cluster_0, Distance_0.1910, Novelty_0.1233, Confidence_0.8396, Known-like
+Sequence_95, Cluster_0, Distance_0.1496, Novelty_0.0757, Confidence_0.8699, Known-like
+Sequence_96, Cluster_0, Distance_0.2067, Novelty_0.1414, Confidence_0.8287, Known-like
+Sequence_97, Cluster_0, Distance_0.1587, Novelty_0.0863, Confidence_0.8630, Known-like
+Sequence_98, Cluster_0, Distance_0.0836, Novelty_0.0000, Confidence_0.9228, Known-like
+Sequence_99, Cluster_0, Distance_0.0836, Novelty_0.0000, Confidence_0.9228, Known-like
+Sequence_100, Cluster_0, Distance_0.1892, Novelty_0.1213, Confidence_0.8409, Known-like
+Sequence_101, Cluster_0, Distance_0.0836, Novelty_0.0000, Confidence_0.9228, Known-like
+Sequence_102, Cluster_0, Distance_0.1877, Novelty_0.1195, Confidence_0.8420, Known-like
+Sequence_103, Cluster_0, Distance_0.0836, Novelty_0.0000, Confidence_0.9228, Known-like
+Sequence_104, Cluster_0, Distance_0.1892, Novelty_0.1213, Confidence_0.8409, Known-like
+Sequence_105, Cluster_0, Distance_0.0836, Novelty_0.0000, Confidence_0.9228, Known-like
+Sequence_106, Cluster_0, Distance_0.0836, Novelty_0.0000, Confidence_0.9228, Known-like
+Sequence_107, Cluster_0, Distance_0.1910, Novelty_0.1233, Confidence_0.8396, Known-like
+Sequence_108, Cluster_0, Distance_0.0836, Novelty_0.0000, Confidence_0.9228, Known-like
+Sequence_109, Cluster_0, Distance_0.0836, Novelty_0.0000, Confidence_0.9228, Known-like
+Sequence_110, Cluster_0, Distance_0.1904, Novelty_0.1226, Confidence_0.8401, Known-like
+Sequence_111, Cluster_0, Distance_0.0836, Novelty_0.0000, Confidence_0.9228, Known-like
+Sequence_112, Cluster_0, Distance_0.0836, Novelty_0.0000, Confidence_0.9228, Known-like
+Sequence_113, Cluster_0, Distance_0.0836, Novelty_0.0000, Confidence_0.9228, Known-like
+Sequence_114, Cluster_0, Distance_0.0836, Novelty_0.0000, Confidence_0.9228, Known-like
+Sequence_115, Cluster_0, Distance_0.1877, Novelty_0.1196, Confidence_0.8419, Known-like
+Sequence_116, Cluster_0, Distance_0.0836, Novelty_0.0000, Confidence_0.9228, Known-like
+Sequence_117, Cluster_0, Distance_0.0836, Novelty_0.0000, Confidence_0.9228, Known-like
+Sequence_118, Cluster_0, Distance_0.0836, Novelty_0.0000, Confidence_0.9228, Known-like
+Sequence_119, Cluster_0, Distance_0.0836, Novelty_0.0000, Confidence_0.9228, Known-like
+Sequence_120, Cluster_0, Distance_0.0836, Novelty_0.0000, Confidence_0.9228, Known-like
+Sequence_121, Cluster_0, Distance_0.0836, Novelty_0.0000, Confidence_0.9228, Known-like
+Sequence_122, Cluster_0, Distance_0.0836, Novelty_0.0000, Confidence_0.9228, Known-like
+Sequence_123, Cluster_0, Distance_0.1953, Novelty_0.1283, Confidence_0.8366, Known-like
+Sequence_124, Cluster_0, Distance_0.0836, Novelty_0.0000, Confidence_0.9228, Known-like
+Sequence_125, Cluster_0, Distance_0.0836, Novelty_0.0000, Confidence_0.9228, Known-like
+Sequence_126, Cluster_0, Distance_0.0836, Novelty_0.0000, Confidence_0.9228, Known-like
+Sequence_127, Cluster_0, Distance_0.0836, Novelty_0.0000, Confidence_0.9228, Known-like
+Sequence_128, Cluster_0, Distance_0.0836, Novelty_0.0000, Confidence_0.9228, Known-like
+Sequence_129, Cluster_0, Distance_0.0836, Novelty_0.0000, Confidence_0.9228, Known-like
+Sequence_130, Cluster_0, Distance_0.0836, Novelty_0.0000, Confidence_0.9228, Known-like
+Sequence_131, Cluster_0, Distance_0.0836, Novelty_0.0000, Confidence_0.9228, Known-like
+Sequence_132, Cluster_0, Distance_0.0836, Novelty_0.0000, Confidence_0.9228, Known-like
+Sequence_133, Cluster_0, Distance_0.1877, Novelty_0.1196, Confidence_0.8419, Known-like
+Sequence_134, Cluster_0, Distance_0.0836, Novelty_0.0000, Confidence_0.9228, Known-like
+Sequence_135, Cluster_0, Distance_0.1912, Novelty_0.1236, Confidence_0.8395, Known-like
+Sequence_136, Cluster_0, Distance_0.0836, Novelty_0.0000, Confidence_0.9228, Known-like
+Sequence_137, Cluster_0, Distance_0.1833, Novelty_0.1144, Confidence_0.8451, Known-like
+Sequence_138, Cluster_0, Distance_0.0836, Novelty_0.0000, Confidence_0.9228, Known-like
+Sequence_139, Cluster_0, Distance_0.0836, Novelty_0.0000, Confidence_0.9228, Known-like
+Sequence_140, Cluster_0, Distance_0.0836, Novelty_0.0000, Confidence_0.9228, Known-like
+Sequence_141, Cluster_0, Distance_0.1864, Novelty_0.1180, Confidence_0.8429, Known-like
+Sequence_142, Cluster_0, Distance_0.0836, Novelty_0.0000, Confidence_0.9228, Known-like
+Sequence_143, Cluster_0, Distance_0.0836, Novelty_0.0000, Confidence_0.9228, Known-like
+Sequence_144, Cluster_0, Distance_0.0836, Novelty_0.0000, Confidence_0.9228, Known-like
+Sequence_145, Cluster_0, Distance_0.0836, Novelty_0.0000, Confidence_0.9228, Known-like
+Sequence_146, Cluster_0, Distance_0.0836, Novelty_0.0000, Confidence_0.9228, Known-like
+Sequence_147, Cluster_0, Distance_0.0836, Novelty_0.0000, Confidence_0.9228, Known-like
+Sequence_148, Cluster_0, Distance_0.0836, Novelty_0.0000, Confidence_0.9228, Known-like
+Sequence_149, Cluster_0, Distance_0.0836, Novelty_0.0000, Confidence_0.9228, Known-like
+Sequence_150, Cluster_0, Distance_0.0836, Novelty_0.0000, Confidence_0.9228, Known-like
+Sequence_151, Cluster_0, Distance_0.0836, Novelty_0.0000, Confidence_0.9228, Known-like
+Sequence_152, Cluster_0, Distance_0.1912, Novelty_0.1236, Confidence_0.8395, Known-like
+Sequence_153, Cluster_0, Distance_0.1846, Novelty_0.1159, Confidence_0.8442, Known-like
+Sequence_154, Cluster_0, Distance_0.2011, Novelty_0.1349, Confidence_0.8326, Known-like
+Sequence_155, Cluster_0, Distance_0.1877, Novelty_0.1196, Confidence_0.8419, Known-like
+Sequence_156, Cluster_0, Distance_0.0836, Novelty_0.0000, Confidence_0.9228, Known-like
+Sequence_157, Cluster_0, Distance_0.0836, Novelty_0.0000, Confidence_0.9228, Known-like
+Sequence_158, Cluster_0, Distance_0.0836, Novelty_0.0000, Confidence_0.9228, Known-like
+Sequence_159, Cluster_0, Distance_0.0836, Novelty_0.0000, Confidence_0.9228, Known-like
+Sequence_160, Cluster_0, Distance_0.0836, Novelty_0.0000, Confidence_0.9228, Known-like
+Sequence_161, Cluster_0, Distance_0.1904, Novelty_0.1226, Confidence_0.8401, Known-like
+Sequence_162, Cluster_0, Distance_0.1948, Novelty_0.1277, Confidence_0.8369, Known-like
+Sequence_163, Cluster_0, Distance_0.2992, Novelty_0.2475, Confidence_0.7697, Known-like
+Sequence_164, Cluster_0, Distance_0.0836, Novelty_0.0000, Confidence_0.9228, Known-like
+Sequence_165, Cluster_0, Distance_0.0836, Novelty_0.0000, Confidence_0.9228, Known-like
+Sequence_166, Cluster_0, Distance_0.1877, Novelty_0.1195, Confidence_0.8420, Known-like
+Sequence_167, Cluster_0, Distance_0.0836, Novelty_0.0000, Confidence_0.9228, Known-like
+Sequence_168, Cluster_0, Distance_0.0836, Novelty_0.0000, Confidence_0.9228, Known-like
+Sequence_169, Cluster_0, Distance_0.0836, Novelty_0.0000, Confidence_0.9228, Known-like
+Sequence_170, Cluster_0, Distance_0.0836, Novelty_0.0000, Confidence_0.9228, Known-like
+Sequence_171, Cluster_0, Distance_0.0836, Novelty_0.0000, Confidence_0.9228, Known-like
+Sequence_172, Cluster_0, Distance_0.0836, Novelty_0.0000, Confidence_0.9228, Known-like
+Sequence_173, Cluster_0, Distance_0.0836, Novelty_0.0000, Confidence_0.9228, Known-like
+Sequence_174, Cluster_0, Distance_0.0836, Novelty_0.0000, Confidence_0.9228, Known-like
+Sequence_175, Cluster_0, Distance_0.0836, Novelty_0.0000, Confidence_0.9228, Known-like
+Sequence_176, Cluster_0, Distance_0.1912, Novelty_0.1236, Confidence_0.8395, Known-like
+Sequence_177, Cluster_0, Distance_0.0836, Novelty_0.0000, Confidence_0.9228, Known-like
+Sequence_178, Cluster_0, Distance_0.0836, Novelty_0.0000, Confidence_0.9228, Known-like
+Sequence_179, Cluster_0, Distance_0.0836, Novelty_0.0000, Confidence_0.9228, Known-like
+Sequence_180, Cluster_0, Distance_0.0836, Novelty_0.0000, Confidence_0.9228, Known-like
+Sequence_181, Cluster_0, Distance_0.0836, Novelty_0.0000, Confidence_0.9228, Known-like
+Sequence_182, Cluster_0, Distance_0.0836, Novelty_0.0000, Confidence_0.9228, Known-like
+Sequence_183, Cluster_0, Distance_0.0836, Novelty_0.0000, Confidence_0.9228, Known-like
+Sequence_184, Cluster_0, Distance_0.0836, Novelty_0.0000, Confidence_0.9228, Known-like
+Sequence_185, Cluster_0, Distance_0.0836, Novelty_0.0000, Confidence_0.9228, Known-like
+Sequence_186, Cluster_0, Distance_0.1864, Novelty_0.1180, Confidence_0.8429, Known-like
+Sequence_187, Cluster_0, Distance_0.1910, Novelty_0.1233, Confidence_0.8396, Known-like
+Sequence_188, Cluster_0, Distance_0.0836, Novelty_0.0000, Confidence_0.9228, Known-like
+Sequence_189, Cluster_0, Distance_0.1918, Novelty_0.1242, Confidence_0.8391, Known-like
+Sequence_190, Cluster_0, Distance_0.1892, Novelty_0.1213, Confidence_0.8409, Known-like
+Sequence_191, Cluster_0, Distance_0.0836, Novelty_0.0000, Confidence_0.9228, Known-like
+Sequence_192, Cluster_0, Distance_0.0836, Novelty_0.0000, Confidence_0.9228, Known-like
+Sequence_193, Cluster_0, Distance_0.2178, Novelty_0.1541, Confidence_0.8211, Known-like
+Sequence_194, Cluster_0, Distance_0.0836, Novelty_0.0000, Confidence_0.9228, Known-like
+Sequence_195, Cluster_0, Distance_0.0836, Novelty_0.0000, Confidence_0.9228, Known-like
+Sequence_196, Cluster_0, Distance_0.0836, Novelty_0.0000, Confidence_0.9228, Known-like
+Sequence_197, Cluster_0, Distance_0.1833, Novelty_0.1144, Confidence_0.8451, Known-like
+Sequence_198, Cluster_0, Distance_0.1918, Novelty_0.1242, Confidence_0.8391, Known-like
+Sequence_199, Cluster_0, Distance_0.1981, Novelty_0.1315, Confidence_0.8346, Known-like
+Sequence_200, Cluster_0, Distance_0.2280, Novelty_0.1659, Confidence_0.8143, Known-like
+Sequence_201, Cluster_0, Distance_0.4379, Novelty_0.4068, Confidence_0.6955, Known-like
+Sequence_202, Cluster_0, Distance_0.3720, Novelty_0.3312, Confidence_0.7289, Known-like
+Sequence_203, Cluster_0, Distance_0.5240, Novelty_0.5057, Confidence_0.6562, Similar
+Sequence_204, Cluster_0, Distance_0.3184, Novelty_0.2697, Confidence_0.7585, Known-like
+Sequence_205, Cluster_0, Distance_0.7523, Novelty_0.7679, Confidence_0.5707, Similar
+Sequence_206, Cluster_0, Distance_0.5790, Novelty_0.5689, Confidence_0.6333, Similar
+Sequence_207, Cluster_0, Distance_0.2662, Novelty_0.2097, Confidence_0.7898, Known-like
+Sequence_208, Cluster_0, Distance_0.4714, Novelty_0.4454, Confidence_0.6796, Known-like
+Sequence_209, Cluster_0, Distance_0.2599, Novelty_0.2025, Confidence_0.7937, Known-like
+Sequence_210, Cluster_0, Distance_0.4648, Novelty_0.4377, Confidence_0.6827, Known-like
+Sequence_211, Cluster_0, Distance_0.3365, Novelty_0.2904, Confidence_0.7482, Known-like
+Sequence_212, Cluster_0, Distance_0.4172, Novelty_0.3831, Confidence_0.7056, Known-like
+Sequence_213, Cluster_0, Distance_0.5786, Novelty_0.5684, Confidence_0.6335, Similar
+Sequence_214, Cluster_0, Distance_0.4787, Novelty_0.4537, Confidence_0.6763, Similar
+Sequence_215, Cluster_0, Distance_0.4003, Novelty_0.3637, Confidence_0.7141, Known-like
+Sequence_216, Cluster_0, Distance_0.1981, Novelty_0.1315, Confidence_0.8346, Known-like
+Sequence_217, Cluster_0, Distance_0.2929, Novelty_0.2403, Confidence_0.7735, Known-like
+Sequence_218, Cluster_0, Distance_0.5472, Novelty_0.5323, Confidence_0.6463, Similar
+Sequence_219, Cluster_0, Distance_0.5404, Novelty_0.5246, Confidence_0.6492, Similar
+Sequence_220, Cluster_0, Distance_0.2895, Novelty_0.2364, Confidence_0.7755, Known-like
+Sequence_221, Cluster_0, Distance_0.5054, Novelty_0.4844, Confidence_0.6643, Similar
+Sequence_222, Cluster_0, Distance_0.8079, Novelty_0.8318, Confidence_0.5531, Similar
+Sequence_223, Cluster_0, Distance_0.3085, Novelty_0.2583, Confidence_0.7642, Known-like
+Sequence_224, Cluster_0, Distance_0.4337, Novelty_0.4020, Confidence_0.6975, Known-like
+Sequence_225, Cluster_0, Distance_0.4171, Novelty_0.3830, Confidence_0.7057, Known-like
+Sequence_226, Cluster_0, Distance_0.2293, Novelty_0.1673, Confidence_0.8135, Known-like
+Sequence_227, Cluster_0, Distance_0.2798, Novelty_0.2253, Confidence_0.7814, Known-like
+Sequence_228, Cluster_0, Distance_0.7591, Novelty_0.7758, Confidence_0.5685, Similar
+Sequence_229, Cluster_0, Distance_0.4159, Novelty_0.3816, Confidence_0.7063, Known-like
+Sequence_230, Cluster_0, Distance_0.3266, Novelty_0.2791, Confidence_0.7538, Known-like
+Sequence_231, Cluster_0, Distance_0.4346, Novelty_0.4030, Confidence_0.6971, Known-like
+Sequence_232, Cluster_0, Distance_0.1953, Novelty_0.1283, Confidence_0.8366, Known-like
+Sequence_233, Cluster_0, Distance_0.3888, Novelty_0.3505, Confidence_0.7201, Known-like
+Sequence_234, Cluster_0, Distance_0.3396, Novelty_0.2940, Confidence_0.7465, Known-like
+Sequence_235, Cluster_0, Distance_0.4822, Novelty_0.4578, Confidence_0.6747, Similar
+Sequence_236, Cluster_0, Distance_0.3293, Novelty_0.2821, Confidence_0.7523, Known-like
+Sequence_237, Cluster_0, Distance_0.1904, Novelty_0.1226, Confidence_0.8401, Known-like
+Sequence_238, Cluster_0, Distance_0.3555, Novelty_0.3122, Confidence_0.7377, Known-like
+Sequence_239, Cluster_0, Distance_0.7779, Novelty_0.7973, Confidence_0.5625, Similar
+Sequence_240, Cluster_0, Distance_0.3470, Novelty_0.3025, Confidence_0.7424, Known-like
+Sequence_241, Cluster_0, Distance_0.6176, Novelty_0.6132, Confidence_0.6182, Similar
+Sequence_242, Cluster_0, Distance_0.3940, Novelty_0.3565, Confidence_0.7174, Known-like
+Sequence_243, Cluster_0, Distance_0.1883, Novelty_0.1203, Confidence_0.8415, Known-like
+Sequence_244, Cluster_0, Distance_0.3308, Novelty_0.2839, Confidence_0.7514, Known-like
+Sequence_245, Cluster_0, Distance_0.5535, Novelty_0.5396, Confidence_0.6437, Similar
+Sequence_246, Cluster_0, Distance_0.1704, Novelty_0.0996, Confidence_0.8544, Known-like
+Sequence_247, Cluster_0, Distance_0.1912, Novelty_0.1236, Confidence_0.8395, Known-like
+Sequence_248, Cluster_0, Distance_0.4936, Novelty_0.4708, Confidence_0.6695, Similar
+Sequence_249, Cluster_0, Distance_0.4501, Novelty_0.4209, Confidence_0.6896, Known-like
+Sequence_250, Cluster_0, Distance_0.3520, Novelty_0.3082, Confidence_0.7397, Known-like
+Sequence_251, Cluster_0, Distance_0.4006, Novelty_0.3641, Confidence_0.7140, Known-like
+Sequence_252, Cluster_0, Distance_0.4486, Novelty_0.4191, Confidence_0.6903, Known-like
+Sequence_253, Cluster_0, Distance_0.3199, Novelty_0.2714, Confidence_0.7576, Known-like
+Sequence_254, Cluster_0, Distance_0.4056, Novelty_0.3698, Confidence_0.7114, Known-like
+Sequence_255, Cluster_0, Distance_0.4667, Novelty_0.4400, Confidence_0.6818, Known-like
+Sequence_256, Cluster_0, Distance_0.3695, Novelty_0.3283, Confidence_0.7302, Known-like
+Sequence_257, Cluster_0, Distance_0.4122, Novelty_0.3773, Confidence_0.7081, Known-like
+Sequence_258, Cluster_0, Distance_0.6822, Novelty_0.6874, Confidence_0.5945, Similar
+Sequence_259, Cluster_0, Distance_0.5845, Novelty_0.5752, Confidence_0.6311, Similar
+Sequence_260, Cluster_0, Distance_0.5052, Novelty_0.4842, Confidence_0.6643, Similar
+Sequence_261, Cluster_0, Distance_0.4450, Novelty_0.4150, Confidence_0.6921, Known-like
+Sequence_262, Cluster_0, Distance_0.4775, Novelty_0.4524, Confidence_0.6768, Similar
+Sequence_263, Cluster_0, Distance_0.2966, Novelty_0.2446, Confidence_0.7713, Known-like
+Sequence_264, Cluster_0, Distance_0.2061, Novelty_0.1407, Confidence_0.8291, Known-like
+Sequence_265, Cluster_0, Distance_0.3384, Novelty_0.2926, Confidence_0.7471, Known-like
+Sequence_266, Cluster_0, Distance_0.2100, Novelty_0.1451, Confidence_0.8265, Known-like
+Sequence_267, Cluster_0, Distance_0.7604, Novelty_0.7773, Confidence_0.5680, Similar
+Sequence_268, Cluster_0, Distance_0.3391, Novelty_0.2934, Confidence_0.7468, Known-like
+Sequence_269, Cluster_0, Distance_0.0836, Novelty_0.0000, Confidence_0.9228, Known-like
+Sequence_270, Cluster_0, Distance_0.4109, Novelty_0.3759, Confidence_0.7087, Known-like
+Sequence_271, Cluster_0, Distance_0.6496, Novelty_0.6500, Confidence_0.6062, Similar
+Sequence_272, Cluster_0, Distance_0.1910, Novelty_0.1233, Confidence_0.8396, Known-like
+Sequence_273, Cluster_0, Distance_0.2127, Novelty_0.1482, Confidence_0.8246, Known-like
+Sequence_274, Cluster_0, Distance_0.5657, Novelty_0.5536, Confidence_0.6387, Similar
+Sequence_275, Cluster_0, Distance_0.4633, Novelty_0.4360, Confidence_0.6834, Known-like
+Sequence_276, Cluster_0, Distance_0.4144, Novelty_0.3798, Confidence_0.7070, Known-like
+Sequence_277, Cluster_0, Distance_0.4752, Novelty_0.4497, Confidence_0.6779, Similar
+Sequence_278, Cluster_0, Distance_0.5213, Novelty_0.5026, Confidence_0.6573, Similar
+Sequence_279, Cluster_0, Distance_0.0836, Novelty_0.0000, Confidence_0.9228, Known-like
+Sequence_280, Cluster_0, Distance_0.3189, Novelty_0.2701, Confidence_0.7582, Known-like
+Sequence_281, Cluster_0, Distance_0.3694, Novelty_0.3282, Confidence_0.7303, Known-like
+Sequence_282, Cluster_0, Distance_0.2347, Novelty_0.1735, Confidence_0.8099, Known-like
+Sequence_283, Cluster_0, Distance_0.5852, Novelty_0.5760, Confidence_0.6308, Similar
+Sequence_284, Cluster_0, Distance_0.4146, Novelty_0.3801, Confidence_0.7069, Known-like
+Sequence_285, Cluster_0, Distance_0.6120, Novelty_0.6068, Confidence_0.6203, Similar
+Sequence_286, Cluster_0, Distance_0.4055, Novelty_0.3696, Confidence_0.7115, Known-like
+Sequence_287, Cluster_0, Distance_0.2702, Novelty_0.2143, Confidence_0.7873, Known-like
+Sequence_288, Cluster_0, Distance_0.2906, Novelty_0.2376, Confidence_0.7749, Known-like
+Sequence_289, Cluster_0, Distance_0.3892, Novelty_0.3510, Confidence_0.7198, Known-like
+Sequence_290, Cluster_0, Distance_0.4878, Novelty_0.4641, Confidence_0.6721, Similar
+Sequence_291, Cluster_0, Distance_0.1639, Novelty_0.0922, Confidence_0.8592, Known-like
+Sequence_292, Cluster_0, Distance_0.3735, Novelty_0.3329, Confidence_0.7280, Known-like
+Sequence_293, Cluster_0, Distance_0.1962, Novelty_0.1293, Confidence_0.8360, Known-like
+Sequence_294, Cluster_0, Distance_0.1912, Novelty_0.1236, Confidence_0.8395, Known-like
+Sequence_295, Cluster_0, Distance_0.4133, Novelty_0.3786, Confidence_0.7076, Known-like
+Sequence_296, Cluster_0, Distance_0.4416, Novelty_0.4111, Confidence_0.6937, Known-like
+Sequence_297, Cluster_0, Distance_0.5329, Novelty_0.5159, Confidence_0.6524, Similar
+Sequence_298, Cluster_0, Distance_0.4788, Novelty_0.4538, Confidence_0.6762, Similar
+Sequence_299, Cluster_0, Distance_0.5539, Novelty_0.5401, Confidence_0.6435, Similar
+Sequence_300, Cluster_0, Distance_0.7134, Novelty_0.7232, Confidence_0.5836, Similar
+Sequence_301, Cluster_0, Distance_0.2678, Novelty_0.2115, Confidence_0.7888, Known-like
+Sequence_302, Cluster_0, Distance_0.2513, Novelty_0.1926, Confidence_0.7992, Known-like
+Sequence_303, Cluster_0, Distance_0.2472, Novelty_0.1879, Confidence_0.8018, Known-like
+Sequence_304, Cluster_0, Distance_0.1833, Novelty_0.1144, Confidence_0.8451, Known-like
+Sequence_305, Cluster_0, Distance_0.2575, Novelty_0.1997, Confidence_0.7952, Known-like
+Sequence_306, Cluster_0, Distance_0.1877, Novelty_0.1196, Confidence_0.8419, Known-like
+Sequence_307, Cluster_0, Distance_0.4810, Novelty_0.4563, Confidence_0.6752, Similar
+Sequence_308, Cluster_0, Distance_0.0836, Novelty_0.0000, Confidence_0.9228, Known-like
+Sequence_309, Cluster_0, Distance_0.2101, Novelty_0.1452, Confidence_0.8264, Known-like
+Sequence_310, Cluster_0, Distance_0.3958, Novelty_0.3586, Confidence_0.7164, Known-like
+Sequence_311, Cluster_0, Distance_0.1743, Novelty_0.1041, Confidence_0.8516, Known-like
+Sequence_312, Cluster_0, Distance_0.2200, Novelty_0.1566, Confidence_0.8197, Known-like
+Sequence_313, Cluster_0, Distance_0.5394, Novelty_0.5235, Confidence_0.6496, Similar
+Sequence_314, Cluster_0, Distance_0.1904, Novelty_0.1226, Confidence_0.8401, Known-like
+Sequence_315, Cluster_0, Distance_0.4985, Novelty_0.4765, Confidence_0.6673, Similar
+Sequence_316, Cluster_0, Distance_0.6957, Novelty_0.7029, Confidence_0.5897, Similar
+Sequence_317, Cluster_0, Distance_0.2673, Novelty_0.2110, Confidence_0.7891, Known-like
+Sequence_318, Cluster_0, Distance_0.4234, Novelty_0.3903, Confidence_0.7025, Known-like
+Sequence_319, Cluster_0, Distance_0.4866, Novelty_0.4628, Confidence_0.6727, Similar
+Sequence_320, Cluster_0, Distance_0.2755, Novelty_0.2203, Confidence_0.7840, Known-like
+Sequence_321, Cluster_0, Distance_0.4899, Novelty_0.4666, Confidence_0.6712, Similar
+Sequence_322, Cluster_0, Distance_0.3438, Novelty_0.2988, Confidence_0.7442, Known-like
+Sequence_323, Cluster_0, Distance_0.4371, Novelty_0.4059, Confidence_0.6959, Known-like
+Sequence_324, Cluster_0, Distance_0.3640, Novelty_0.3220, Confidence_0.7331, Known-like
+Sequence_325, Cluster_0, Distance_0.4418, Novelty_0.4113, Confidence_0.6936, Known-like
+Sequence_326, Cluster_0, Distance_0.3965, Novelty_0.3593, Confidence_0.7161, Known-like
+Sequence_327, Cluster_0, Distance_0.1706, Novelty_0.0999, Confidence_0.8543, Known-like
+Sequence_328, Cluster_0, Distance_0.2799, Novelty_0.2255, Confidence_0.7813, Known-like
+Sequence_329, Cluster_0, Distance_0.1918, Novelty_0.1242, Confidence_0.8391, Known-like
+Sequence_330, Cluster_0, Distance_0.4003, Novelty_0.3637, Confidence_0.7141, Known-like
+Sequence_331, Cluster_0, Distance_0.4906, Novelty_0.4674, Confidence_0.6709, Similar
+Sequence_332, Cluster_0, Distance_0.4601, Novelty_0.4324, Confidence_0.6849, Known-like
+Sequence_333, Cluster_0, Distance_0.4034, Novelty_0.3673, Confidence_0.7125, Known-like
+Sequence_334, Cluster_0, Distance_0.2331, Novelty_0.1716, Confidence_0.8110, Known-like
+Sequence_335, Cluster_0, Distance_0.2999, Novelty_0.2484, Confidence_0.7693, Known-like
+Sequence_336, Cluster_0, Distance_0.5318, Novelty_0.5147, Confidence_0.6528, Similar
+Sequence_337, Cluster_0, Distance_0.2630, Novelty_0.2060, Confidence_0.7918, Known-like
+Sequence_338, Cluster_0, Distance_0.5630, Novelty_0.5506, Confidence_0.6398, Similar
+Sequence_339, Cluster_0, Distance_0.2342, Novelty_0.1729, Confidence_0.8103, Known-like
+Sequence_340, Cluster_0, Distance_0.2718, Novelty_0.2161, Confidence_0.7863, Known-like
+Sequence_341, Cluster_0, Distance_0.3686, Novelty_0.3272, Confidence_0.7307, Known-like
+Sequence_342, Cluster_0, Distance_0.2756, Novelty_0.2205, Confidence_0.7839, Known-like
+Sequence_343, Cluster_2, Distance_0.9152, Novelty_0.9550, Confidence_0.5221, Potentially novel
+Sequence_344, Cluster_0, Distance_0.3822, Novelty_0.3429, Confidence_0.7235, Known-like
+Sequence_345, Cluster_0, Distance_0.2759, Novelty_0.2208, Confidence_0.7838, Known-like
+Sequence_346, Cluster_0, Distance_0.2649, Novelty_0.2082, Confidence_0.7906, Known-like
+Sequence_347, Cluster_0, Distance_0.6319, Novelty_0.6297, Confidence_0.6128, Similar
+Sequence_348, Cluster_0, Distance_0.1918, Novelty_0.1242, Confidence_0.8391, Known-like
+Sequence_349, Cluster_0, Distance_0.5103, Novelty_0.4900, Confidence_0.6621, Similar
+Sequence_350, Cluster_0, Distance_0.4095, Novelty_0.3742, Confidence_0.7095, Known-like
+Sequence_351, Cluster_0, Distance_0.4404, Novelty_0.4098, Confidence_0.6942, Known-like
+Sequence_352, Cluster_0, Distance_0.2871, Novelty_0.2337, Confidence_0.7770, Known-like
+Sequence_353, Cluster_0, Distance_0.3343, Novelty_0.2879, Confidence_0.7495, Known-like
+Sequence_354, Cluster_0, Distance_0.2635, Novelty_0.2065, Confidence_0.7915, Known-like
+Sequence_355, Cluster_0, Distance_0.3959, Novelty_0.3586, Confidence_0.7164, Known-like
+Sequence_356, Cluster_0, Distance_0.3774, Novelty_0.3374, Confidence_0.7260, Known-like
+Sequence_357, Cluster_0, Distance_0.7635, Novelty_0.7808, Confidence_0.5671, Similar
+Sequence_358, Cluster_0, Distance_0.1948, Novelty_0.1277, Confidence_0.8369, Known-like
+Sequence_359, Cluster_0, Distance_0.3518, Novelty_0.3080, Confidence_0.7398, Known-like
+Sequence_360, Cluster_0, Distance_0.3147, Novelty_0.2654, Confidence_0.7606, Known-like
+Sequence_361, Cluster_0, Distance_0.4046, Novelty_0.3686, Confidence_0.7119, Known-like
+Sequence_362, Cluster_0, Distance_0.3362, Novelty_0.2901, Confidence_0.7484, Known-like
+Sequence_363, Cluster_0, Distance_0.4424, Novelty_0.4121, Confidence_0.6933, Known-like
+Sequence_364, Cluster_0, Distance_0.4020, Novelty_0.3657, Confidence_0.7132, Known-like
+Sequence_365, Cluster_0, Distance_0.4641, Novelty_0.4370, Confidence_0.6830, Known-like
+Sequence_366, Cluster_0, Distance_0.4341, Novelty_0.4025, Confidence_0.6973, Known-like
+Sequence_367, Cluster_0, Distance_0.5078, Novelty_0.4872, Confidence_0.6632, Similar
+Sequence_368, Cluster_0, Distance_0.1484, Novelty_0.0744, Confidence_0.8708, Known-like
+Sequence_369, Cluster_0, Distance_0.0836, Novelty_0.0000, Confidence_0.9228, Known-like
+Sequence_370, Cluster_0, Distance_0.3197, Novelty_0.2711, Confidence_0.7577, Known-like
+Sequence_371, Cluster_0, Distance_0.3622, Novelty_0.3199, Confidence_0.7341, Known-like
+Sequence_372, Cluster_0, Distance_0.5246, Novelty_0.5065, Confidence_0.6559, Similar
+Sequence_373, Cluster_0, Distance_0.5331, Novelty_0.5162, Confidence_0.6523, Similar
+Sequence_374, Cluster_0, Distance_0.1846, Novelty_0.1159, Confidence_0.8442, Known-like
+Sequence_375, Cluster_0, Distance_0.2158, Novelty_0.1518, Confidence_0.8225, Known-like
+Sequence_376, Cluster_0, Distance_0.2921, Novelty_0.2394, Confidence_0.7740, Known-like
+Sequence_377, Cluster_0, Distance_0.3140, Novelty_0.2646, Confidence_0.7610, Known-like
+Sequence_378, Cluster_0, Distance_0.6200, Novelty_0.6160, Confidence_0.6173, Similar
+Sequence_379, Cluster_0, Distance_0.2074, Novelty_0.1422, Confidence_0.8282, Known-like
+Sequence_380, Cluster_0, Distance_0.5041, Novelty_0.4829, Confidence_0.6648, Similar
+Sequence_381, Cluster_0, Distance_0.8290, Novelty_0.8560, Confidence_0.5467, Potentially novel
+Sequence_382, Cluster_0, Distance_0.3062, Novelty_0.2556, Confidence_0.7656, Known-like
+Sequence_383, Cluster_0, Distance_0.4418, Novelty_0.4113, Confidence_0.6936, Known-like
+Sequence_384, Cluster_0, Distance_0.4351, Novelty_0.4037, Confidence_0.6968, Known-like
+Sequence_385, Cluster_0, Distance_0.3701, Novelty_0.3290, Confidence_0.7299, Known-like
+Sequence_386, Cluster_0, Distance_0.3618, Novelty_0.3194, Confidence_0.7343, Known-like
+Sequence_387, Cluster_0, Distance_0.0836, Novelty_0.0000, Confidence_0.9228, Known-like
+Sequence_388, Cluster_0, Distance_0.2664, Novelty_0.2099, Confidence_0.7897, Known-like
+Sequence_389, Cluster_0, Distance_0.3896, Novelty_0.3514, Confidence_0.7196, Known-like
+Sequence_390, Cluster_0, Distance_0.2458, Novelty_0.1862, Confidence_0.8027, Known-like
+Sequence_391, Cluster_0, Distance_0.3961, Novelty_0.3588, Confidence_0.7163, Known-like
+Sequence_392, Cluster_0, Distance_0.6815, Novelty_0.6866, Confidence_0.5947, Similar
+Sequence_393, Cluster_0, Distance_0.5084, Novelty_0.4878, Confidence_0.6630, Similar
+Sequence_394, Cluster_0, Distance_0.3274, Novelty_0.2800, Confidence_0.7533, Known-like
+Sequence_395, Cluster_0, Distance_0.5142, Novelty_0.4945, Confidence_0.6604, Similar
+Sequence_396, Cluster_0, Distance_0.4016, Novelty_0.3652, Confidence_0.7135, Known-like
+Sequence_397, Cluster_0, Distance_0.3280, Novelty_0.2806, Confidence_0.7530, Known-like
+Sequence_398, Cluster_0, Distance_0.1757, Novelty_0.1057, Confidence_0.8506, Known-like
+Sequence_399, Cluster_0, Distance_0.2172, Novelty_0.1534, Confidence_0.8215, Known-like
+Sequence_400, Cluster_1, Distance_0.9164, Novelty_0.9564, Confidence_0.5218, Potentially novel
+Sequence_401, Cluster_2, Distance_0.9370, Novelty_0.9801, Confidence_0.5163, Potentially novel
+Sequence_402, Cluster_1, Distance_0.9243, Novelty_0.9655, Confidence_0.5197, Potentially novel
+Sequence_403, Cluster_2, Distance_0.8975, Novelty_0.9347, Confidence_0.5270, Potentially novel
+Sequence_404, Cluster_1, Distance_0.9275, Novelty_0.9691, Confidence_0.5188, Potentially novel
+Sequence_405, Cluster_2, Distance_0.9253, Novelty_0.9666, Confidence_0.5194, Potentially novel
+Sequence_406, Cluster_2, Distance_0.9433, Novelty_0.9873, Confidence_0.5146, Potentially novel
+Sequence_407, Cluster_2, Distance_0.9147, Novelty_0.9545, Confidence_0.5223, Potentially novel
+Sequence_408, Cluster_2, Distance_0.9304, Novelty_0.9725, Confidence_0.5180, Potentially novel
+Sequence_409, Cluster_1, Distance_0.9171, Novelty_0.9572, Confidence_0.5216, Potentially novel
+Sequence_410, Cluster_1, Distance_0.9202, Novelty_0.9607, Confidence_0.5208, Potentially novel
+Sequence_411, Cluster_2, Distance_0.9109, Novelty_0.9501, Confidence_0.5233, Potentially novel
+Sequence_412, Cluster_1, Distance_0.9323, Novelty_0.9747, Confidence_0.5175, Potentially novel
+Sequence_413, Cluster_1, Distance_0.9353, Novelty_0.9781, Confidence_0.5167, Potentially novel
+Sequence_414, Cluster_2, Distance_0.9035, Novelty_0.9415, Confidence_0.5254, Potentially novel
+Sequence_415, Cluster_1, Distance_0.9175, Novelty_0.9576, Confidence_0.5215, Potentially novel
+Sequence_416, Cluster_1, Distance_0.9213, Novelty_0.9620, Confidence_0.5205, Potentially novel
+Sequence_417, Cluster_1, Distance_0.9284, Novelty_0.9702, Confidence_0.5186, Potentially novel
+Sequence_418, Cluster_1, Distance_0.9333, Novelty_0.9758, Confidence_0.5172, Potentially novel
+Sequence_419, Cluster_2, Distance_0.9322, Novelty_0.9745, Confidence_0.5176, Potentially novel
+Sequence_420, Cluster_2, Distance_0.9302, Novelty_0.9723, Confidence_0.5181, Potentially novel
+Sequence_421, Cluster_2, Distance_0.8975, Novelty_0.9347, Confidence_0.5270, Potentially novel
+Sequence_422, Cluster_1, Distance_0.9318, Novelty_0.9741, Confidence_0.5176, Potentially novel
+Sequence_423, Cluster_1, Distance_0.9401, Novelty_0.9836, Confidence_0.5154, Potentially novel
+Sequence_424, Cluster_2, Distance_0.9273, Novelty_0.9689, Confidence_0.5189, Potentially novel
+Sequence_425, Cluster_2, Distance_0.9376, Novelty_0.9807, Confidence_0.5161, Potentially novel
+Sequence_426, Cluster_2, Distance_0.8975, Novelty_0.9347, Confidence_0.5270, Potentially novel
+Sequence_427, Cluster_2, Distance_0.9173, Novelty_0.9574, Confidence_0.5216, Potentially novel
+Sequence_428, Cluster_1, Distance_0.9185, Novelty_0.9588, Confidence_0.5212, Potentially novel
+Sequence_429, Cluster_1, Distance_0.9214, Novelty_0.9621, Confidence_0.5205, Potentially novel
+Sequence_430, Cluster_1, Distance_0.9477, Novelty_0.9924, Confidence_0.5134, Potentially novel
+Sequence_431, Cluster_1, Distance_0.9394, Novelty_0.9828, Confidence_0.5156, Potentially novel
+Sequence_432, Cluster_2, Distance_0.9272, Novelty_0.9688, Confidence_0.5189, Potentially novel
+Sequence_433, Cluster_1, Distance_0.9201, Novelty_0.9606, Confidence_0.5208, Potentially novel
+Sequence_434, Cluster_2, Distance_0.9302, Novelty_0.9722, Confidence_0.5181, Potentially novel
+Sequence_435, Cluster_1, Distance_0.9228, Novelty_0.9637, Confidence_0.5201, Potentially novel
+Sequence_436, Cluster_2, Distance_0.9239, Novelty_0.9650, Confidence_0.5198, Potentially novel
+Sequence_437, Cluster_1, Distance_0.9100, Novelty_0.9490, Confidence_0.5236, Potentially novel
+Sequence_438, Cluster_2, Distance_0.9260, Novelty_0.9674, Confidence_0.5192, Potentially novel
+Sequence_439, Cluster_1, Distance_0.9241, Novelty_0.9652, Confidence_0.5197, Potentially novel
+Sequence_440, Cluster_2, Distance_0.9323, Novelty_0.9746, Confidence_0.5175, Potentially novel
+Sequence_441, Cluster_1, Distance_0.9489, Novelty_0.9937, Confidence_0.5131, Potentially novel
+Sequence_442, Cluster_1, Distance_0.9426, Novelty_0.9865, Confidence_0.5148, Potentially novel
+Sequence_443, Cluster_1, Distance_0.9236, Novelty_0.9646, Confidence_0.5199, Potentially novel
+Sequence_444, Cluster_2, Distance_0.9149, Novelty_0.9546, Confidence_0.5222, Potentially novel
+Sequence_445, Cluster_2, Distance_0.9216, Novelty_0.9624, Confidence_0.5204, Potentially novel
+Sequence_446, Cluster_2, Distance_0.9199, Novelty_0.9604, Confidence_0.5209, Potentially novel
+Sequence_447, Cluster_2, Distance_0.9369, Novelty_0.9799, Confidence_0.5163, Potentially novel
+Sequence_448, Cluster_2, Distance_0.9177, Novelty_0.9579, Confidence_0.5215, Potentially novel
+Sequence_449, Cluster_1, Distance_0.9186, Novelty_0.9589, Confidence_0.5212, Potentially novel
+Sequence_450, Cluster_2, Distance_0.9154, Novelty_0.9552, Confidence_0.5221, Potentially novel
+Sequence_451, Cluster_1, Distance_0.9301, Novelty_0.9721, Confidence_0.5181, Potentially novel
+Sequence_452, Cluster_2, Distance_0.9396, Novelty_0.9831, Confidence_0.5156, Potentially novel
+Sequence_453, Cluster_2, Distance_0.9207, Novelty_0.9613, Confidence_0.5206, Potentially novel
+Sequence_454, Cluster_1, Distance_0.9269, Novelty_0.9685, Confidence_0.5190, Potentially novel
+Sequence_455, Cluster_2, Distance_0.9272, Novelty_0.9688, Confidence_0.5189, Potentially novel
+Sequence_456, Cluster_1, Distance_0.9254, Novelty_0.9667, Confidence_0.5194, Potentially novel
+Sequence_457, Cluster_2, Distance_0.8913, Novelty_0.9276, Confidence_0.5287, Potentially novel
+Sequence_458, Cluster_1, Distance_0.9326, Novelty_0.9750, Confidence_0.5174, Potentially novel
+Sequence_459, Cluster_1, Distance_0.9221, Novelty_0.9629, Confidence_0.5203, Potentially novel
+Sequence_460, Cluster_2, Distance_0.9192, Novelty_0.9596, Confidence_0.5210, Potentially novel
+Sequence_461, Cluster_1, Distance_0.9318, Novelty_0.9740, Confidence_0.5177, Potentially novel
+Sequence_462, Cluster_1, Distance_0.9192, Novelty_0.9596, Confidence_0.5211, Potentially novel
+Sequence_463, Cluster_1, Distance_0.9353, Novelty_0.9781, Confidence_0.5167, Potentially novel
+Sequence_464, Cluster_1, Distance_0.9154, Novelty_0.9552, Confidence_0.5221, Potentially novel
+Sequence_465, Cluster_1, Distance_0.9294, Novelty_0.9713, Confidence_0.5183, Potentially novel
+Sequence_466, Cluster_1, Distance_0.9265, Novelty_0.9680, Confidence_0.5191, Potentially novel
+Sequence_467, Cluster_2, Distance_0.9140, Novelty_0.9537, Confidence_0.5225, Potentially novel
+Sequence_468, Cluster_1, Distance_0.9279, Novelty_0.9696, Confidence_0.5187, Potentially novel
+Sequence_469, Cluster_2, Distance_0.8961, Novelty_0.9331, Confidence_0.5274, Potentially novel
+Sequence_470, Cluster_1, Distance_0.9215, Novelty_0.9622, Confidence_0.5204, Potentially novel
+Sequence_471, Cluster_2, Distance_0.9393, Novelty_0.9827, Confidence_0.5156, Potentially novel
+Sequence_472, Cluster_1, Distance_0.9216, Novelty_0.9623, Confidence_0.5204, Potentially novel
+Sequence_473, Cluster_1, Distance_0.9255, Novelty_0.9668, Confidence_0.5194, Potentially novel
+Sequence_474, Cluster_2, Distance_0.9069, Novelty_0.9455, Confidence_0.5244, Potentially novel
+Sequence_475, Cluster_1, Distance_0.9184, Novelty_0.9586, Confidence_0.5213, Potentially novel
+Sequence_476, Cluster_2, Distance_0.9289, Novelty_0.9707, Confidence_0.5184, Potentially novel
+Sequence_477, Cluster_2, Distance_0.9337, Novelty_0.9763, Confidence_0.5171, Potentially novel
+Sequence_478, Cluster_1, Distance_0.9275, Novelty_0.9691, Confidence_0.5188, Potentially novel
+Sequence_479, Cluster_2, Distance_0.9173, Novelty_0.9574, Confidence_0.5216, Potentially novel
+Sequence_480, Cluster_1, Distance_0.9188, Novelty_0.9591, Confidence_0.5212, Potentially novel
+Sequence_481, Cluster_1, Distance_0.9460, Novelty_0.9904, Confidence_0.5139, Potentially novel
+Sequence_482, Cluster_1, Distance_0.9449, Novelty_0.9891, Confidence_0.5142, Potentially novel
+Sequence_483, Cluster_2, Distance_0.9162, Novelty_0.9562, Confidence_0.5219, Potentially novel
+Sequence_484, Cluster_1, Distance_0.9222, Novelty_0.9630, Confidence_0.5202, Potentially novel
+Sequence_485, Cluster_1, Distance_0.9140, Novelty_0.9536, Confidence_0.5225, Potentially novel
+Sequence_486, Cluster_1, Distance_0.9096, Novelty_0.9485, Confidence_0.5237, Potentially novel
+Sequence_487, Cluster_1, Distance_0.9173, Novelty_0.9575, Confidence_0.5216, Potentially novel
+Sequence_488, Cluster_1, Distance_0.9183, Novelty_0.9585, Confidence_0.5213, Potentially novel
+Sequence_489, Cluster_1, Distance_0.9089, Novelty_0.9477, Confidence_0.5239, Potentially novel
+Sequence_490, Cluster_1, Distance_0.9215, Novelty_0.9623, Confidence_0.5204, Potentially novel
+Sequence_491, Cluster_1, Distance_0.9217, Novelty_0.9625, Confidence_0.5204, Potentially novel
+Sequence_492, Cluster_2, Distance_0.9366, Novelty_0.9796, Confidence_0.5164, Potentially novel
+Sequence_493, Cluster_2, Distance_0.9318, Novelty_0.9741, Confidence_0.5177, Potentially novel
+Sequence_494, Cluster_2, Distance_0.9209, Novelty_0.9616, Confidence_0.5206, Potentially novel
+Sequence_495, Cluster_1, Distance_0.9237, Novelty_0.9648, Confidence_0.5198, Potentially novel
+Sequence_496, Cluster_1, Distance_0.9284, Novelty_0.9702, Confidence_0.5186, Potentially novel
+Sequence_497, Cluster_2, Distance_0.9255, Novelty_0.9669, Confidence_0.5193, Potentially novel
+Sequence_498, Cluster_2, Distance_0.9045, Novelty_0.9427, Confidence_0.5251, Potentially novel
+Sequence_499, Cluster_2, Distance_0.9229, Novelty_0.9638, Confidence_0.5201, Potentially novel
+Sequence_500, Cluster_1, Distance_0.9334, Novelty_0.9759, Confidence_0.5172, Potentially novel
+Sequence_501, Cluster_2, Distance_0.9070, Novelty_0.9455, Confidence_0.5244, Potentially novel
+Sequence_502, Cluster_2, Distance_0.9242, Novelty_0.9654, Confidence_0.5197, Potentially novel
+Sequence_503, Cluster_1, Distance_0.9398, Novelty_0.9832, Confidence_0.5155, Potentially novel
+Sequence_504, Cluster_1, Distance_0.9544, Novelty_1.0000, Confidence_0.5117, Potentially novel
+Sequence_505, Cluster_1, Distance_0.9225, Novelty_0.9633, Confidence_0.5202, Potentially novel
+Sequence_506, Cluster_1, Distance_0.9298, Novelty_0.9717, Confidence_0.5182, Potentially novel
+Sequence_507, Cluster_1, Distance_0.9269, Novelty_0.9684, Confidence_0.5190, Potentially novel
+Sequence_508, Cluster_2, Distance_0.9070, Novelty_0.9456, Confidence_0.5244, Potentially novel
+Sequence_509, Cluster_2, Distance_0.9134, Novelty_0.9530, Confidence_0.5226, Potentially novel
+Sequence_510, Cluster_2, Distance_0.9041, Novelty_0.9422, Confidence_0.5252, Potentially novel
+Sequence_511, Cluster_2, Distance_0.9279, Novelty_0.9696, Confidence_0.5187, Potentially novel
+Sequence_512, Cluster_1, Distance_0.9334, Novelty_0.9760, Confidence_0.5172, Potentially novel
+Sequence_513, Cluster_1, Distance_0.9352, Novelty_0.9779, Confidence_0.5168, Potentially novel
+Sequence_514, Cluster_2, Distance_0.9381, Novelty_0.9813, Confidence_0.5160, Potentially novel
+Sequence_515, Cluster_1, Distance_0.9372, Novelty_0.9802, Confidence_0.5162, Potentially novel
+Sequence_516, Cluster_1, Distance_0.9321, Novelty_0.9744, Confidence_0.5176, Potentially novel
+Sequence_517, Cluster_2, Distance_0.9419, Novelty_0.9857, Confidence_0.5150, Potentially novel
+Sequence_518, Cluster_1, Distance_0.9016, Novelty_0.9394, Confidence_0.5259, Potentially novel
+Sequence_519, Cluster_2, Distance_0.9134, Novelty_0.9529, Confidence_0.5226, Potentially novel
+Sequence_520, Cluster_2, Distance_0.9334, Novelty_0.9759, Confidence_0.5172, Potentially novel
+Sequence_521, Cluster_1, Distance_0.9162, Novelty_0.9562, Confidence_0.5219, Potentially novel
+Sequence_522, Cluster_1, Distance_0.9153, Novelty_0.9551, Confidence_0.5221, Potentially novel
+Sequence_523, Cluster_2, Distance_0.9237, Novelty_0.9648, Confidence_0.5198, Potentially novel
+Sequence_524, Cluster_1, Distance_0.8934, Novelty_0.9300, Confidence_0.5281, Potentially novel
+Sequence_525, Cluster_2, Distance_0.9104, Novelty_0.9495, Confidence_0.5235, Potentially novel
+Sequence_526, Cluster_1, Distance_0.9396, Novelty_0.9831, Confidence_0.5156, Potentially novel
+Sequence_527, Cluster_1, Distance_0.9235, Novelty_0.9645, Confidence_0.5199, Potentially novel
+Sequence_528, Cluster_1, Distance_0.9260, Novelty_0.9674, Confidence_0.5192, Potentially novel
+Sequence_529, Cluster_2, Distance_0.9286, Novelty_0.9704, Confidence_0.5185, Potentially novel
+Sequence_530, Cluster_2, Distance_0.9125, Novelty_0.9519, Confidence_0.5229, Potentially novel
+Sequence_531, Cluster_1, Distance_0.9216, Novelty_0.9624, Confidence_0.5204, Potentially novel
+Sequence_532, Cluster_1, Distance_0.9181, Novelty_0.9583, Confidence_0.5214, Potentially novel
+Sequence_533, Cluster_2, Distance_0.9012, Novelty_0.9390, Confidence_0.5260, Potentially novel
+Sequence_534, Cluster_1, Distance_0.8978, Novelty_0.9350, Confidence_0.5269, Potentially novel
+Sequence_535, Cluster_2, Distance_0.9110, Novelty_0.9501, Confidence_0.5233, Potentially novel
+Sequence_536, Cluster_1, Distance_0.9234, Novelty_0.9644, Confidence_0.5199, Potentially novel
+Sequence_537, Cluster_1, Distance_0.9231, Novelty_0.9641, Confidence_0.5200, Potentially novel
+Sequence_538, Cluster_2, Distance_0.9127, Novelty_0.9521, Confidence_0.5228, Potentially novel
+Sequence_539, Cluster_2, Distance_0.9243, Novelty_0.9654, Confidence_0.5197, Potentially novel
+Sequence_540, Cluster_1, Distance_0.9195, Novelty_0.9599, Confidence_0.5210, Potentially novel
+Sequence_541, Cluster_1, Distance_0.9170, Novelty_0.9570, Confidence_0.5217, Potentially novel
+Sequence_542, Cluster_2, Distance_0.9168, Novelty_0.9569, Confidence_0.5217, Potentially novel
+Sequence_543, Cluster_2, Distance_0.9166, Novelty_0.9566, Confidence_0.5218, Potentially novel
+Sequence_544, Cluster_1, Distance_0.9342, Novelty_0.9768, Confidence_0.5170, Potentially novel
+Sequence_545, Cluster_1, Distance_0.9327, Novelty_0.9751, Confidence_0.5174, Potentially novel
+Sequence_546, Cluster_1, Distance_0.9191, Novelty_0.9595, Confidence_0.5211, Potentially novel
+Sequence_547, Cluster_1, Distance_0.9161, Novelty_0.9560, Confidence_0.5219, Potentially novel
+Sequence_548, Cluster_1, Distance_0.9200, Novelty_0.9605, Confidence_0.5208, Potentially novel
+Sequence_549, Cluster_1, Distance_0.9236, Novelty_0.9646, Confidence_0.5199, Potentially novel
+Sequence_550, Cluster_1, Distance_0.9270, Novelty_0.9685, Confidence_0.5189, Potentially novel
+Sequence_551, Cluster_1, Distance_0.9097, Novelty_0.9487, Confidence_0.5236, Potentially novel
+Sequence_552, Cluster_2, Distance_0.9150, Novelty_0.9548, Confidence_0.5222, Potentially novel
+Sequence_553, Cluster_1, Distance_0.9151, Novelty_0.9549, Confidence_0.5222, Potentially novel
+Sequence_554, Cluster_2, Distance_0.9037, Novelty_0.9418, Confidence_0.5253, Potentially novel
+Sequence_555, Cluster_2, Distance_0.9176, Novelty_0.9577, Confidence_0.5215, Potentially novel
+Sequence_556, Cluster_1, Distance_0.9287, Novelty_0.9705, Confidence_0.5185, Potentially novel
+Sequence_557, Cluster_1, Distance_0.9278, Novelty_0.9694, Confidence_0.5187, Potentially novel
+Sequence_558, Cluster_2, Distance_0.9178, Novelty_0.9580, Confidence_0.5214, Potentially novel
+Sequence_559, Cluster_1, Distance_0.9224, Novelty_0.9633, Confidence_0.5202, Potentially novel
+Sequence_560, Cluster_1, Distance_0.9238, Novelty_0.9648, Confidence_0.5198, Potentially novel
+Sequence_561, Cluster_1, Distance_0.9211, Novelty_0.9618, Confidence_0.5205, Potentially novel
+Sequence_562, Cluster_1, Distance_0.9262, Novelty_0.9676, Confidence_0.5192, Potentially novel
+Sequence_563, Cluster_1, Distance_0.9459, Novelty_0.9902, Confidence_0.5139, Potentially novel
+Sequence_564, Cluster_2, Distance_0.8979, Novelty_0.9352, Confidence_0.5269, Potentially novel
+Sequence_565, Cluster_1, Distance_0.9481, Novelty_0.9928, Confidence_0.5133, Potentially novel
+Sequence_566, Cluster_1, Distance_0.9272, Novelty_0.9688, Confidence_0.5189, Potentially novel
+Sequence_567, Cluster_1, Distance_0.9397, Novelty_0.9832, Confidence_0.5155, Potentially novel
+Sequence_568, Cluster_2, Distance_0.9381, Novelty_0.9814, Confidence_0.5160, Potentially novel
+Sequence_569, Cluster_1, Distance_0.9306, Novelty_0.9727, Confidence_0.5180, Potentially novel
+Sequence_570, Cluster_2, Distance_0.9346, Novelty_0.9773, Confidence_0.5169, Potentially novel
+Sequence_571, Cluster_2, Distance_0.9327, Novelty_0.9751, Confidence_0.5174, Potentially novel
+Sequence_572, Cluster_1, Distance_0.9219, Novelty_0.9627, Confidence_0.5203, Potentially novel
+Sequence_573, Cluster_2, Distance_0.9343, Novelty_0.9769, Confidence_0.5170, Potentially novel
+Sequence_574, Cluster_1, Distance_0.9467, Novelty_0.9912, Confidence_0.5137, Potentially novel
+Sequence_575, Cluster_2, Distance_0.9366, Novelty_0.9796, Confidence_0.5164, Potentially novel
+Sequence_576, Cluster_1, Distance_0.9419, Novelty_0.9856, Confidence_0.5150, Potentially novel
+Sequence_577, Cluster_2, Distance_0.9273, Novelty_0.9689, Confidence_0.5189, Potentially novel
+Sequence_578, Cluster_2, Distance_0.9188, Novelty_0.9592, Confidence_0.5212, Potentially novel
+Sequence_579, Cluster_1, Distance_0.9265, Novelty_0.9679, Confidence_0.5191, Potentially novel
+Sequence_580, Cluster_2, Distance_0.9214, Novelty_0.9621, Confidence_0.5205, Potentially novel
+Sequence_581, Cluster_1, Distance_0.9272, Novelty_0.9687, Confidence_0.5189, Potentially novel
+Sequence_582, Cluster_1, Distance_0.9446, Novelty_0.9888, Confidence_0.5142, Potentially novel
+Sequence_583, Cluster_2, Distance_0.9293, Novelty_0.9712, Confidence_0.5183, Potentially novel
+Sequence_584, Cluster_2, Distance_0.9218, Novelty_0.9626, Confidence_0.5203, Potentially novel
+Sequence_585, Cluster_2, Distance_0.9350, Novelty_0.9777, Confidence_0.5168, Potentially novel
+Sequence_586, Cluster_2, Distance_0.9096, Novelty_0.9486, Confidence_0.5237, Potentially novel
+Sequence_587, Cluster_2, Distance_0.9199, Novelty_0.9604, Confidence_0.5209, Potentially novel
+Sequence_588, Cluster_1, Distance_0.9364, Novelty_0.9794, Confidence_0.5164, Potentially novel
+Sequence_589, Cluster_1, Distance_0.9245, Novelty_0.9657, Confidence_0.5196, Potentially novel
+Sequence_590, Cluster_2, Distance_0.9214, Novelty_0.9621, Confidence_0.5205, Potentially novel
+Sequence_591, Cluster_2, Distance_0.8878, Novelty_0.9236, Confidence_0.5297, Potentially novel
+Sequence_592, Cluster_2, Distance_0.9015, Novelty_0.9393, Confidence_0.5259, Potentially novel
+Sequence_593, Cluster_1, Distance_0.9286, Novelty_0.9704, Confidence_0.5185, Potentially novel
+Sequence_594, Cluster_2, Distance_0.9194, Novelty_0.9598, Confidence_0.5210, Potentially novel
+Sequence_595, Cluster_1, Distance_0.9241, Novelty_0.9652, Confidence_0.5197, Potentially novel
+Sequence_596, Cluster_2, Distance_0.9338, Novelty_0.9764, Confidence_0.5171, Potentially novel
+Sequence_597, Cluster_1, Distance_0.9313, Novelty_0.9735, Confidence_0.5178, Potentially novel
+Sequence_598, Cluster_1, Distance_0.9199, Novelty_0.9604, Confidence_0.5209, Potentially novel
+Sequence_599, Cluster_2, Distance_0.9152, Novelty_0.9550, Confidence_0.5221, Potentially novel
